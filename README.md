@@ -1,1 +1,1 @@
-# slopeunblocked-76.github.io
+Slope Unblocked 76 is a thrilling 3D endless runner that tests your reflexes and accuracy. Guide a neon ball down a procedurally generated slope while avoiding hazards and gaps in a fast-paced, ever-accelerating environment.

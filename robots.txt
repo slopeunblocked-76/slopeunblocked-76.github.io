@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /sitemap.xml
+Sitemap: https://slopeunblocked-76.github.io/sitemap.xml
